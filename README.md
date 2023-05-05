@@ -65,6 +65,11 @@ User > What is a bot?
 {'train_runtime': 142.424, 'train_samples_per_second': 0.063, 'train_steps_per_second': 0.007, 'train_loss': 0.923012375831604, 'epoch': 1.0}
 100%|███████████████████████████████████████████████████████████████████████████████████| 1/1 [02:22<00:00, 142.23s/it]
 Model saved as adam.model
+Bot > What is a bot?
+Bot > A bot is an automated process where a user creates a new bot using a simple command-and-line interface.
+Bot > The bot can then be used for other tasks such as text processing, image recognition, and so on.
+Bot > Bot-based Model (BBM) models are built on top-notch Python code, making them easy to use and maintain.
+User >
 ```
 
 
