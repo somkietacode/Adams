@@ -69,6 +69,30 @@ Bot > What is a bot?
 Bot > A bot is an automated process where a user creates a new bot using a simple command-and-line interface.
 Bot > The bot can then be used for other tasks such as text processing, image recognition, and so on.
 Bot > Bot-based Model (BBM) models are built on top-notch Python code, making them easy to use and maintain.
+User > What is even?
+{'loss': 0.7361, 'learning_rate': 0.0, 'epoch': 1.0}
+{'train_runtime': 145.5799, 'train_samples_per_second': 0.062, 'train_steps_per_second': 0.007, 'train_loss': 0.736084520816803, 'epoch': 1.0}
+100%|███████████████████████████████████████████████████████████████████████████████████| 1/1 [02:25<00:00, 145.12s/it]
+Model saved as adam.model
+Bot > What is even?
+Bot > It's a simple question: What is a "real-world" game?
+Bot > The answer is simple: It's own set of tools, which can be applied to any kind of game.
+User > Define a dog
+{'loss': 0.478, 'learning_rate': 0.0, 'epoch': 1.0}
+{'train_runtime': 63.512, 'train_samples_per_second': 0.142, 'train_steps_per_second': 0.016, 'train_loss': 0.47801339626312256, 'epoch': 1.0}
+100%|████████████████████████████████████████████████████████████████████████████████████| 1/1 [01:03<00:00, 63.12s/it]
+Model saved as adam.model
+Bot > Define a dog as a member of the same-sex couples.
+Bot > In addition to the above examples, we've also included a few other examples of relationships between dogs and humans.
+Bot > These relationships can range from simple to complex relationships such as friendship, family relationships, or even relationships with other animals.
+User > What is Paris?
+{'loss': 0.4311, 'learning_rate': 0.0, 'epoch': 1.0}
+{'train_runtime': 70.3227, 'train_samples_per_second': 0.128, 'train_steps_per_second': 0.014, 'train_loss': 0.43113067746162415, 'epoch': 1.0}
+100%|████████████████████████████████████████████████████████████████████████████████████| 1/1 [01:09<00:00, 69.89s/it]
+Model saved as adam.model
+Bot > What is Paris?
+Bot > Paris is a city, with a wide variety of attractions, including museums, galleries, and more.
+Bot > It has become one of the most popular tourist destinations in the world, thanks to its wide range of different types of visitors and the fact that it is open year-round.
 User >
 ```
 
