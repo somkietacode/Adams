@@ -1,0 +1,64 @@
+bot 
+What is a bot?
+A bot -- short for robot and also called an internet bot -- is a computer program that operates as an agent for a user or other program or to simulate a human activity. Bots are normally used to automate certain tasks, meaning they can run without specific instructions from humans.
+An organization or individual can use a bot to replace a repetitive task that a human would otherwise have to perform. Bots are also much faster at these tasks than humans. Although bots can carry out useful functions, they can also be malicious and come in the form of malware.
+How do bots work?
+Normally, bots operate over a network. They communicate with one another using internet-based services, such as instant messaging (IM); interfaces like Twitterbots; or Internet Relay Chat. According to the 2021 research report titled "Bot Attacks: Top Threats and Trends" from security firm Barracuda, more than two-thirds of internet traffic is bots. In addition, 67% of bad bot traffic originates from public data centers in North America.
+Bots are made from sets of algorithms that aid them in their designated tasks. These tasks include conversing with a human -- which attempts to mimic human behaviors -- or gathering content from other websites. There are several different types of bots designed to accomplish a wide variety of tasks.
+For example, a chatbot uses one of several methods to operate. A rule-based chatbot interacts with a person by giving predefined prompts for that individual to select. An intellectually independent chatbot uses machine learning to learn from human inputs and scan for valuable keywords that can trigger an interaction. Artificial intelligence chatbots are a combination of rule-based and intellectually independent chatbots. Chatbots may also use pattern matching, natural language processing (NLP) and natural language generation tools.
+Organizations or individuals who use bots can also use bot management software, which helps manage bots and protect against malicious bots. Bot managers may also be included as part of a web app security platform. A bot manager can allow the use of some bots and block the use of others that might cause harm to a system. To do this, a bot manager classifies any incoming requests by humans and good bots, as well as known malicious and unknown bots. Any suspect bot traffic is then directed away from a site by the bot manager. Some basic bot management feature sets include IP rate limiting and CAPTCHAs. IP rate limiting restricts the number of same address requests, while CAPTCHAs provide challenges that help differentiate bots from humans.
+Types of bots
+There are numerous types of bots, all with unique goals and tasks. Some common bots include the following:
+Bots can also be classified as good bots or bad bots -- in other words, bots that do not cause any harm versus bots that pose threats.
+Examples and uses of bots
+Bots can be used in customer service fields, as well as in areas such as business, scheduling, search functionality and entertainment. Bots in each area offer different benefits. For example, customer service bots are available 24/7 and increase the availability of customer service employees. These programs are also called virtual representatives or virtual agents, and they free up human agents to focus on more complicated issues.
+Other services that use bots include the following:
+Malicious bots
+Malicious bots are used to automate actions considered to be cybercrimes. Common types of malicious bots include the following:
+Other malicious types of bots include the following:
+Organizations can stop malicious bots by using a bot manager.
+Advantages and disadvantages of bots
+There are plenty of advantages that come with using bots, as well as disadvantages, such as risks that other bots could pose. Some potential advantages of bots include the following:
+Some disadvantages include the following:
+How to detect malicious bots
+There are several signs that indicate a system is infected by malicious bots, including the following:
+How to prevent malicious bot activity
+The best defense against malicious bots is prevention. Sound cybersecurity practices can help keep a bot infection from occurring. The ways to prevent bots include the following:
+Preventing malicious bots is part of a comprehensive security plan. Learn how to create an enterprise cybersecurity strategy that is proactive in defending against threats like malicious bots.
+
+
+			Continue Reading About bot
+		
+
+				Related Terms
+GRC
+Governance, risk and compliance (GRC) refers to an organization's strategy for handling the interdependencies between corporate governance policies, enterprise risk management (ERM) programs, and regulatory and company compliance.
+Fault management is the component of network management that detects, isolates and fixes problems.
+Graceful degradation is the ability of a computer, machine, electronic system or network to maintain limited functionality even ...
+Synchronous Optical Network (SONET) is a North American standard for synchronous data transmission over optical fibers.
+A password manager is a technology tool that helps internet users create, save, manage and use passwords across different online ...
+Hash-based Message Authentication Code (HMAC) is a message encryption method that uses a cryptographic key in conjunction with a ...
+A web application firewall (WAF) is a firewall that monitors, filters and blocks Hypertext Transfer Protocol (HTTP) traffic as it...
+A compliance framework is a structured set of guidelines that details an organization's processes for maintaining accordance with...
+Qualitative data is information that cannot be counted, measured or easily expressed using numbers.
+Green IT (green information technology) is the practice of creating and using environmentally sustainable computing resources.
+Candidate experience reflects a person's feelings about going through a company's job application process.
+Continuous performance management, in a human resource (HR) management context, is the supervision of an employee's performance ...
+Employee engagement is the emotional and professional connection an employee feels toward their organization, colleagues and work.
+Lead scoring is a methodology used by sales and marketing departments to determine the worthiness of leads, or potential ...
+Build to order is a methodology and manufacturing practice where a product is created once a confirmed order is received.
+Customer data management (CDM) is a set of administrative processes that allow data about customers and customer interactions ...
+All Rights Reserved, 
+Copyright 1999 - 2023, TechTarget
+
+
+Privacy Policy
+
+
+
+Cookie Preferences 
+
+
+
+Do Not Sell or Share My Personal Information
+
